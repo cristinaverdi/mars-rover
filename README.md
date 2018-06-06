@@ -18,5 +18,3 @@
 >
 > 8. The grid may have obstacles. If a given sequence of commands encounters an obstacle, the rover moves up to the last
 possible point and reports the obstacle. e.g. 0:2:2:N
-
-
